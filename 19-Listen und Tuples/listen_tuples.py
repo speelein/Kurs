@@ -1,0 +1,1 @@
+# Indexsierung, Slicing, unterstuetzen verschiedene Datentypel
